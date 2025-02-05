@@ -2,7 +2,7 @@
 layout: post
 title:  "GitHub pages下载使用Jekyll"
 date:   2025-01-20 00:38:32 +0800
-categories: jekyll update
+categories: jekyll
 ---
 GitHub官网推荐使用`Jekyll`搭建静态网站（[GitHub Pages](https://docs.github.com/zh/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)），但是根据[Jekyll官网](https://jekyllrb.com/)的教程安装Ruby费了老大一份劲。
 
